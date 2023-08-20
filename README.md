@@ -7,8 +7,8 @@ This is a simple RESTful API for a basic e-commerce platform built using Node.js
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/e-commerce-api.git
-cd e-commerce-api
+git git@github.com:bjayzee/ecommerceAPI-with-node.git
+cd ginapEcommerce
 
 ```
 
